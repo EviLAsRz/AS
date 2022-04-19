@@ -1,2 +1,2 @@
-# Administraci-n-de-Servidores
+# Administracion-de-Servidores
 Administración de Servidores
