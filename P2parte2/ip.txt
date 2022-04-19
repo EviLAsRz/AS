@@ -1,0 +1,4 @@
+192.168.2.2 nodo1 nodo1
+192.168.2.3 nodo2 nodo2
+192.168.3.2 nodo3 nodo3
+192.168.3.3 nodo4 nodo4
